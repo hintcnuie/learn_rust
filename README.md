@@ -10,3 +10,5 @@
 - [学习Rust， 认识Cargo！](https://www.toutiao.com/article/7321361123062940200/)
 
 - [学Rust，进华为！ 通过例子学习Rust 语言： 使用Rust编写猜大小游戏](https://www.toutiao.com/article/7325059918636335650/)
+
+- [学Rust，进华为！ 学习Rust 语言变量中的可变与不变性](https://www.toutiao.com/article/7327688162237497866/)
