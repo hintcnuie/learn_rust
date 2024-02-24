@@ -14,3 +14,5 @@
 - [学Rust，进华为！ 学习Rust 语言变量中的可变与不变性](https://www.toutiao.com/article/7327688162237497866/)
 
 - [学Rust， 进华为！ 了解Rust 语言的println！的几种用法](https://www.toutiao.com/article/7335423820196692492/)
+
+- [学Rust，进华为！学习Rust中的基本数据类型和复合数据类型](https://www.toutiao.com/article/7338299446562275892/)
